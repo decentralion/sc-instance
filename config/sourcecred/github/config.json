@@ -1,0 +1,10 @@
+{
+  "repositories":[
+    "sourcecred/sourcecred",
+    "sourcecred/widgets",
+    "sourcecred/research",
+    "sourcecred/cred",
+    "sourcecred/github-workflow-examples",
+    "sourcecred/docs"
+  ]
+}
